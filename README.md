@@ -1,5 +1,5 @@
 # digital-literacy-project
- This project explores key areas of digital literacy for students, including an infographic, professional digital portfolio, coding practice, email etiquette, and cybercrime awareness. It uses Canva, GitHub, Kaggle, Stack Overflow, HackerEarth, and Google Forms to demonstrate safe and responsible digital skills It promotes safe and ethical tech use.
+ his project explores key areas of digital literacy for students, including an infographic, professional digital portfolio, coding practice, email etiquette, and cybercrime awareness. It uses Canva, GitHub, Kaggle, Stack Overflow, HackerEarth, and Google Forms to demonstrate safe and responsible digital skills It promotes safe and ethical tech use.
 
 Task 1: Digital Literacy Awareness Infographic
 Tool Used:For this project, I used Canva to design my infographic. I selected Canva because it provides a variety of easy-to-use templates, icons, and design elements that help in creating visually attractive educational content. It allowed me to organize information clearly while also adding relevant icons and simple graphics. Using Canva made it easier to present important information in a way that is both engaging and easy to understand for students.
